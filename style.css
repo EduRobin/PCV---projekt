@@ -1,0 +1,72 @@
+
+body {
+    background-image: url(img/pozadi2.jpg);
+    background-size: cover;
+    
+}
+
+header {
+    
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 40px 10px;
+    
+    
+    
+}
+
+
+
+.list-left {
+    text-align: left;
+    margin-left: 250px;
+    padding: 20px;
+    margin-right: auto;
+    
+}
+
+.list-right {
+    text-align: right;
+    margin-right: 250px;
+    padding: 20px;
+    margin-left: auto;
+}
+
+li, a, button {
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+    color: Black;
+    
+}
+button {
+    background-color: orange;
+    border: none;
+    border-radius: 50px;
+
+
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.idk {
+    font-size: 35px;
+    color: orange;
+}
+
+.foot {
+    text-align: center;
+    padding-top: 115px;
+}
+ 
